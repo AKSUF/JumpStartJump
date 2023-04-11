@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/JumpStartJump/static/css/main.aeed800f.css",
+    "main.js": "/JumpStartJump/static/js/main.66d0b512.js",
+    "index.html": "/JumpStartJump/index.html",
+    "main.aeed800f.css.map": "/JumpStartJump/static/css/main.aeed800f.css.map",
+    "main.66d0b512.js.map": "/JumpStartJump/static/js/main.66d0b512.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aeed800f.css",
+    "static/js/main.66d0b512.js"
+  ]
+}
